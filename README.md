@@ -1,5 +1,10 @@
-<<<<<<< HEAD
-# codealpha_tasks
-=======
-# CodeAlpha_Tasks
->>>>>>> a99a08970ec96dc5b30298bf8ddab29aa9c5c761
+# CodeAlpha Tasks
+
+Frontend Development internship tasks for CodeAlpha.
+
+## Projects
+- **Portfolio**: my personal portfolio website (`/portfolio`)
+- **Calculator**: a working calculator built with HTML, CSS and JavaScript (`/codealpha_Calculator`)
+
+## Live Demo
+https://shubhamgoswami957-rgb.github.io/CodeAlpha_Tasks/
